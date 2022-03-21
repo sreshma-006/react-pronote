@@ -1,0 +1,27 @@
+.input{
+    background-color: #0026ff;
+    width:350px;
+    height:300px;
+    color: white;
+    border: black solid;
+    position: relative;
+    top:10px;
+    
+}
+.output{
+    background-color:grey;
+    width:350px;
+    height:300px;
+    color: white;
+    position: relative;
+    left:600px;
+    bottom:310px;
+}
+.output-text{
+    background-color: grey;
+    
+}
+*
+{
+    background-color: blue;
+}
